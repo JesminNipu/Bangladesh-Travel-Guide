@@ -65,7 +65,7 @@ The **Bangladesh Travel Guide (BTG)** application was developed to empower touri
 ## 📂 Repository Structure
 
 ```text
-Touristguide/
+Bangladesh-Travel-Guide/
 ├── Bsc Report of Jesmin Akther.pdf   # Official B.Sc. project/thesis documentation
 ├── README.md                          # Repository documentation and project guide
 ├── app/
@@ -97,7 +97,7 @@ Touristguide/
 ### Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/JesminNipu/Touristguide.git
+   git clone https://github.com/JesminNipu/Bangladesh-Travel-Guide.git
    ```
 2. **Open in Android Studio:**
    - Launch Android Studio, select **Open**, and navigate to the cloned directory.
